@@ -28,4 +28,4 @@ Program ini merupakan modifikasi dari algoritma DES (Data Encryption Standard) d
 > atau jalankan melalui google collabs 👇🏻\
 > https://colab.research.google.com/drive/1HpyJI4Y02xtbejhevEmURMjKdREp1dek?usp=sharing
 
-&copy; 2024 Taliya Meyswara. Do not copy, cite, or distribute without author's permission
+&copy; 2024 Taliya Meyswara.
