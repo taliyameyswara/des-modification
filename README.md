@@ -3,7 +3,7 @@ Modified DES Algorithm for Generate Key, Encryption and Decryption
 #### Taliya Meyswara (A11.2022.14163) - A11.43UG1
 > Kode ini dibuat untuk memenuhi Tugas Akhir Mata Kuliah Kriptografi
 
-## Detail Projek 🧩
+## Detail Modifikasi 🧩
 Kode ini merupakan modifikasi dari algoritma DES (Data Encryption Standard) dengan detail modifikasinya adalah sebagai berikut: 
 | Proses              | Sebelum Modifikasi                                                                                                                                                           | Setelah Modifikasi                                                                                                                                                               |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
