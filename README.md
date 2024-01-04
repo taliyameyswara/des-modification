@@ -24,7 +24,7 @@ Program ini merupakan modifikasi dari algoritma DES (Data Encryption Standard) d
 7. Cek detail proses dan hasil pada folder yang ada
 
 > [!NOTE]  
-> Pastikan sudah setup python environment untuk menjalankan project,\
+> Pastikan sudah setup python environment untuk menjalankan program,\
 > atau jalankan melalui google collabs 👇🏻\
 > https://colab.research.google.com/drive/1HpyJI4Y02xtbejhevEmURMjKdREp1dek?usp=sharing
 
