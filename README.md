@@ -21,7 +21,7 @@ Kode ini merupakan modifikasi dari algoritma DES (Data Encryption Standard) deng
 4. Masukkan path file yang akan di-encoding (contoh: plaintext.jpeg)
 5. Masukkan kunci yang diinginkan
 6. Tunggu proses running selesai
-7. Cek detail proses dan hasil pada folder hasil dan proses
+7. Cek detail proses dan hasil pada folder yang ada
 
 > [!NOTE]  
 > Pastikan sudah setup python environment untuk menjalankan project,\
