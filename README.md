@@ -24,8 +24,8 @@ Kode ini merupakan modifikasi dari algoritma DES (Data Encryption Standard) deng
 7. Cek detail proses dan hasil pada folder hasil dan proses
 
 > [!NOTE]  
-> Pastikan sudah setup python environment untuk menjalankan project,
-> Atau melalui google collabs 👇🏻
+> Pastikan sudah setup python environment untuk menjalankan project,\
+> atau melalui google collabs 👇🏻
 > https://colab.research.google.com/drive/1HpyJI4Y02xtbejhevEmURMjKdREp1dek?usp=sharing
 
 &copy; 2024 Taliya Meyswara. Do not copy, cite, or distribute without author's permission
