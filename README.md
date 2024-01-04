@@ -1,2 +1,14 @@
-# des-modification
+# DES Modification
 Modified DES Algorithm for Generate Key, Encryption and Decryption
+#### Taliya Meyswara (A11.2022.14163) - A11.43UG1
+Kode ini dibuat untuk memenuhi Tugas Akhir Mata Kuliah Kriptografi
+
+## Detail Projek 🧩
+Project ini merupakan modifikasi dari algoritma DES (Data Encryption Standard) di mana modifikasinya adalah sebagai berikut
+| Proses              | Sebelum Modifikasi                                                                                                                                                           | Setelah Modifikasi                                                                                                                                                               |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Generate key        | Kunci yang diinputkan harus 8 karakter                                                                                                                                       | Jika kunci yang diinputkankurang dari 8 karakter maka akan ditambahkan karakter acak hingga mencapai 8 karakter, jika lebih maka akan dikurangi hingga menjadi 8 karakter        |
+| Generate key        | Proses generate kunci biner (menjadi 56 bit) setelah dipermutasi menggunakan tabel pc 1 dibagi menjadi 2 bagian yaitu left (L) dan right (R) dimana masing2 sepanjang 28 bit | Proses generate kunci biner (menjadi 56 bit) setelah dipermutasi menggunakan tabel pc 1 dibagi menjadi 4 bagian yaitu part1, part2, part3, part4 dimana masing2 sepanjang 14 bit |
+| Enkripsi & Dekripsi | Setelah melakukan proses permutasi dengan tabel IP-1, baris biner tersebut dibagi menjadi 2 bagian, sehingga masing-masing bagian terdapat 32 bit                            | Setelah melakukan proses permutasi dengan tabel IP-1, baris biner tersebut dibagi menjadi 4 bagian, sehingga masing-masing bagian terdapat 16 bit                                |
+| Enkripsi & Dekripsi | Tabel fungsi ekspansi e berisi angka 1-32, karena left (L) dan right (R) sama-sama memiliki 32 bit.                                                                          | Tabel fungsi ekspansi e hanya berisi angka 1-16 karena setiap bagian hanya terdapat 16 bit.                                                                                      |
+| Enkripsi & Dekripsi | Hasil dari proses S-Box dipermutasikan dengan tabel fungsi p yang berisi 32 sel                                                                                              | Hasil dari proses S-Box dipermutasikan dengan tabel fungsi p yang berisi 16 sel                                                                                                  |
