@@ -1,10 +1,10 @@
 # DES Modification
 Modified DES Algorithm for Generate Key, Encryption and Decryption
 #### Taliya Meyswara (A11.2022.14163) - A11.43UG1
-> Kode ini dibuat untuk memenuhi Tugas Akhir Mata Kuliah Kriptografi
+> Program ini dibuat untuk memenuhi Tugas Akhir Mata Kuliah Kriptografi
 
 ## Detail Modifikasi 🧩
-Kode ini merupakan modifikasi dari algoritma DES (Data Encryption Standard) dengan detail modifikasinya adalah sebagai berikut: 
+Program ini merupakan modifikasi dari algoritma DES (Data Encryption Standard) dengan detail modifikasinya adalah sebagai berikut: 
 | Proses              | Sebelum Modifikasi                                                                                                                                                           | Setelah Modifikasi                                                                                                                                                               |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Generate key        | Kunci yang diinputkan harus 8 karakter                                                                                                                                       | Jika kunci yang diinputkan kurang dari 8 karakter maka akan ditambahkan karakter acak hingga mencapai 8 karakter, jika lebih maka akan dikurangi hingga menjadi 8 karakter        |
